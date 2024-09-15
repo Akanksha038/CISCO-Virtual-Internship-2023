@@ -24,7 +24,14 @@ This repository contains the necessary files and documentation for the Campus Cy
 ### 4. Content Access Restriction
 
 - **Objective**: Develop a network solution that restricts access to non-educational websites and ensures that only approved web content is accessible by students.
-- **Technology Used**: Deployment of Cisco Umbrella for DNS filtering and Cisco Firepower for enhanced firewall protection.
+- **Technology Used**:
+ Deployment of Cisco Umbrella for DNS filtering and Cisco Firepower for enhanced firewall protection.
+
+
+
+
+
+![WhatsApp Image 2024-09-15 at 8 23 58 PM](https://github.com/user-attachments/assets/070c0d25-c70e-4f12-a669-c006046ffff5)
 
 
 
